@@ -1,0 +1,2 @@
+# FINALPIT
+Student Management System
